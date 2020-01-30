@@ -1,7 +1,6 @@
 # ----------------------------------------------------------------------------------------------------------------------
 # Author:         Divya Shrivastava
 # Date:           01/26/2020
-# Class:          CMSC 416 NLP
 # File:           Eliza.py
 # Function:       The purpose of this program is to be able to have conversation with the
 #                 user. The program must incorporate "word spotting", in which sentences

@@ -1,0 +1,2381 @@
+Feature: "end" +/-2 of "line" -> Predicts:  phone  -> Rank: 2.302585092994046
+Feature: "computer" +/-2 of "line" -> Predicts:  product  -> Rank: 2.0794415416798357
+Feature: "The" -1 of "line" -> Predicts:  phone  -> Rank: 1.9459101490553132
+Feature: "current" +/-2 of "line" -> Predicts:  product  -> Rank: 1.3862943611198906
+Feature: "--" +1 of "line" -> Predicts:  phone  -> Rank: 1.3862943611198906
+Feature: "--" +/-2 of "line" -> Predicts:  phone  -> Rank: 1.3862943611198906
+Feature: "business" +/-2 of "line" -> Predicts:  phone  -> Rank: 1.0986122886681098
+Feature: "year" +/-2 of "line" -> Predicts:  phone  -> Rank: 1.0986122886681098
+Feature: "customers" +/-2 of "line" -> Predicts:  phone  -> Rank: 1.0986122886681098
+Feature: "says" +/-2 of "line" -> Predicts:  phone  -> Rank: 1.0986122886681098
+Feature: "number" +/-2 of "line" -> Predicts:  phone  -> Rank: 1.0986122886681098
+Feature: "said" +/-2 of "line" -> Predicts:  product  -> Rank: 0.9808292530117264
+Feature: "making" +1 of "line" -> Predicts:  phone  -> Rank: 0.6931471805599453
+Feature: "making" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.6931471805599453
+Feature: "costs" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.6931471805599453
+Feature: "lines" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.6931471805599453
+Feature: "added" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.6931471805599453
+Feature: "dozen" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.6931471805599453
+Feature: "million" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.6931471805599453
+Feature: "last" +1 of "line" -> Predicts:  product  -> Rank: 0.6931471805599453
+Feature: "last" +/-2 of "line" -> Predicts:  product  -> Rank: 0.6931471805599453
+Feature: "company" +/-2 of "line" -> Predicts:  product  -> Rank: 0.6931471805599453
+Feature: "three" +/-2 of "line" -> Predicts:  product  -> Rank: 0.6931471805599453
+Feature: "such" +/-2 of "line" -> Predicts:  product  -> Rank: 0.6931471805599453
+Feature: "The" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.5389965007326869
+Feature: "recently" +/-2 of "line" -> Predicts:  product  -> Rank: 0.4054651081081643
+Feature: "still" +/-2 of "line" -> Predicts:  product  -> Rank: 0.4054651081081643
+Feature: "growth" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.4054651081081642
+Feature: "access" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "growth" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "45% access" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "growth past" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "access growth" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "45%" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "access" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "past" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "16000" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "current" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "sold 16000" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "current business" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "16000 current" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "sold" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "16000" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "stay" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "order" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "callers stay" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "stay order" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "callers" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "stay" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "order" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gab" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "big" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "US gab" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "big money-maker" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gab big" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "US" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gab" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "big" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "money-maker" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tip" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "getting" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone tip" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "getting attention" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tip getting" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tip" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "getting" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "attention" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "thousand access" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "thousand" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "keep" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "busy" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "enough keep" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "busy proper" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "keep busy" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "enough" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "keep" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "busy" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "proper" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "increased" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "residential telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "increased 24%" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone increased" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "residential" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "increased" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "24%" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "link" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "long-distance telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "link 13" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone link" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "long-distance" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "link" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "13" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dedicated" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dial-up dedicated" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dial-up" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dedicated" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "butler" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Gamboni butler" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "making call" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "butler making" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Gamboni" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "butler" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "call" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "spread" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "private telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "spread costs" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone spread" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "private" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "spread" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "switched" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dead" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "call switched" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "switched dead" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "switched" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dead" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "outside" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Brad" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "impression outside" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Brad took" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "outside Brad" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "impression" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "outside" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Brad" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "took" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone access" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "making slightly" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "access making" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "slightly" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "pick" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "don't" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "may pick" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "don't forcing" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "pick don't" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "may" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "pick" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "don't" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "forcing" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone-" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "increase" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "largest telephone-" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "increase ever" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone- increase" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "largest" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone-" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "increase" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ever" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "came" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "sleep came" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "sleep" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "came" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "used" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "used communications" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone used" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "used" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "communications" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "24" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "48" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "accommodate 24" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "48 phones" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "24 48" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "accommodate" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "24" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "48" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "phones" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "end" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Pete" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "voice end" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Pete Russo" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "end Pete" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "voice" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Pete" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Russo" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "bisexual" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "recently" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Megaquest's bisexual" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "recently got" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "bisexual recently" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Megaquest's" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "bisexual" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "got" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Millionaire's" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "York telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Millionaire's publisher" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone Millionaire's" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "York" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Millionaire's" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "publisher" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "complaint" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "rewritten" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "toll-free complaint" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "rewritten service" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "complaint rewritten" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "toll-free" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "complaint" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "rewritten" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "service" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "necessary telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "necessary" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "toll-free" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "customers'" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "provides toll-free" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "customers' calls" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "toll-free customers'" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "provides" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "customers'" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "calls" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "trading" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "yesterday" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "answering trading" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "yesterday possibly" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "trading yesterday" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "answering" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "trading" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "yesterday" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "possibly" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "distant" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Merlin came" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "distant voice" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "came distant" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Merlin" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "distant" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ask" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "break ask" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "break" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ask" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "whose" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "secure" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "phone whose" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "secure rang" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "whose secure" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "phone" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "whose" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "secure" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "rang" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Los" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "late telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Los Angeles" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone Los" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "late" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Los" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Angeles" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "radio" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "swore" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "forgot radio" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "swore viciously" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "radio swore" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "forgot" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "radio" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "swore" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "viciously" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "call" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "phone call" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "call dead" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "worst" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "8100 telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "worst year" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone worst" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "8100" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "worst" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "unsecured" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Mr" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "spoke unsecured" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Mr Reagan" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "unsecured Mr" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "spoke" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "unsecured" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Mr" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Reagan" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "private" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "public" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dedicated private" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "public lines" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "private public" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "public" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "let's" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "man end" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "let's call" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "end let's" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "man" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "let's" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "see" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "light" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "doesn't see" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "light When" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "see light" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "doesn't" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "see" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "light" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "When" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "costs" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "homes" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "fixed costs" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "homes businesses" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "costs homes" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "fixed" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "homes" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "businesses" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "subscriber" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "charges" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "pay subscriber" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "subscriber charges" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "pay" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "subscriber" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "charges" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "poorest" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "8100 access" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "poorest annual" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "access poorest" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "poorest" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "annual" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "phone" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "four telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone phone" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "four" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Hullo The" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "The dead" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Hullo" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "cellular" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "moving telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "cellular systems" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone cellular" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "moving" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "cellular" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "systems" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "added" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "185000 access" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "added nine-state" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "access added" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "185000" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "nine-state" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dead" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "family" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "talking dead" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "family leave" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dead family" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "talking" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "family" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "leave" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "got" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "voice got" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Fuqua" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "might end" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Fuqua remarks" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "end Fuqua" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "might" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Fuqua" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "remarks" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dozens" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "provide: gab" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dozens dial" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gab dozens" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "provide:" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dozens" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dial" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "earthquake" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "available" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "victims earthquake" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "available 24" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "earthquake available" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "victims" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "earthquake" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "available" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "called" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "900 telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "called Soap" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone called" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "900" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "called" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Soap" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "conduct" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "toll-free telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "conduct transactions" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone conduct" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "conduct" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "transactions" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "grew" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "New telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "grew 25%" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone grew" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "New" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "grew" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "25%" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "husband" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "?" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "got husband" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "? asked" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "husband ?" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "husband" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "?" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "asked" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "customer" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "New customer" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "grew 35%" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "customer grew" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "customer" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "35%" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "500000 access" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "500000" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "clogged" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "let" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "day clogged" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "let steam" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "clogged let" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "day" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "clogged" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "let" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "steam" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "group's" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dozen telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "group's Washington" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone group's" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "group's" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Washington" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "test" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "I'll" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "put test" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "I'll let" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "test I'll" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "put" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "test" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "I'll" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Federal" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "direct trading" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Federal Reserve" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "trading Federal" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "direct" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Federal" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Reserve" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "come" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "doubt" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "customers come" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "doubt wanting" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "come doubt" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "come" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "doubt" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "wanting" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "increases subscriber" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "charges separation" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "increases" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "separation" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "allegedly" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "residents whose" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "allegedly tapped" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "whose allegedly" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "residents" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "allegedly" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tapped" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "once" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Calif gab" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "once talked" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gab once" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Calif" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "once" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "talked" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dialed" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "asked outside" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dialed Homicide" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "outside dialed" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dialed" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Homicide" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "territory" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "15700 access" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "territory Harrisburg" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "access territory" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "15700" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "territory" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Harrisburg" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gab-" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "proprietors" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Like gab-" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "proprietors Megaquest" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gab- proprietors" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Like" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gab-" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "proprietors" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Megaquest" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "went" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "say The" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "went dead" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "The went" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "say" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "went" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "stays" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "leaves" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "caller stays" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "leaves name" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "stays leaves" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "caller" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "stays" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "leaves" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "name" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Elsie" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "later Elsie" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "later" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Elsie" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "repeat" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "power keep" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "repeat session" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "keep repeat" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "power" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "repeat" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "session" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Keep" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "!" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "call Keep" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Keep !" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Keep" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "!" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "lost" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "next" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "they've lost" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "next location" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "lost next" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "they've" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "lost" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "next" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "location" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Britain" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Britain countries" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone Britain" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Britain" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "countries" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "keeping" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "office" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "We're keeping" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "keeping office" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "We're" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "keeping" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "office" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Foley came" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Foley" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "air" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dead air" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "air" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "fund" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "clogged telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "fund companies" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone fund" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "fund" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "companies" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "million" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "service" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "10 million" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "service 15" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "million service" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "10" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "15" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "him" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "found" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "try him" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "found elsewhere" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "him found" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "try" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "him" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "found" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "elsewhere" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dedicated telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "-- satellite" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone --" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "satellite" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "said access" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "increased 37%" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "access increased" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "37%" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "record" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "use telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "record viewers'" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone record" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "use" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "record" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "viewers'" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "177000 access" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "177000" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "romance" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "horoscopes romance" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "horoscopes" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "romance" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "570000" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "mainly" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "serves 570000" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "mainly Western-Central" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "570000 mainly" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "serves" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "570000" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "mainly" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Western-Central" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tearfully" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "I've" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "came tearfully" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "I've heard" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tearfully I've" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tearfully" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "I've" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "heard" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dozen" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "installed trading" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "dozen branches" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "trading dozen" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "installed" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "branches" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Edmonton" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "jammed" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Meanwhile Edmonton" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "jammed disgruntled" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Edmonton jammed" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Meanwhile" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Edmonton" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "jammed" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "disgruntled" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "stimulated telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "growth pushing" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone growth" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "stimulated" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "pushing" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Kent" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone Kent" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Kent" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "party" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "toll-call party" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "toll-call" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "party" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "The" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "fee private" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "The FCC" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "private The" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "fee" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "FCC" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "news" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "call came" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "news stock" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "came news" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "news" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "stock" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "crossed" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "prone crossed" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "prone" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "crossed" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "direct" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "maybe" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "connected direct" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "maybe 500" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "direct maybe" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "connected" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "maybe" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "500" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "using" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ordered" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "officials using" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ordered keep" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "using ordered" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "officials" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "using" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ordered" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "customer access" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "grew 162000" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "access grew" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "162000" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "42%" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "207000 customer" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "42% increase" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "customer 42%" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "207000" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "42%" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "bursts" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "middle" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "often bursts" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "middle phone" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "bursts middle" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "often" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "bursts" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "middle" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "children" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "messages telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "children easily" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone children" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "messages" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "children" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "easily" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "party-" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "effect" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "The party-" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "effect defeat" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "party- effect" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "party-" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "effect" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "defeat" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "added 1988" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "1988" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "end telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "-- voices" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "voices" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "another telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "another" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "important" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "The important" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "important !" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "important" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "hardware" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "adapters" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "interface hardware" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "adapters CIP" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "hardware adapters" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "interface" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "hardware" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "adapters" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "CIP" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "50000" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "handle 50000" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "handle" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "50000" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Sinclair came" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Sinclair" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "running gab" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "last year" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gab last" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "running" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "voice" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "says" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "live voice" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "says Steven" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "voice says" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "live" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Steven" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "information" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "includes" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "The information" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "includes everything" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "information includes" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "information" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "includes" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "everything" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "update" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "computer telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "update 9370's" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone update" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "update" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "9370's" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "suddenly" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "document telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "suddenly ubiquitous" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone suddenly" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "document" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "suddenly" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ubiquitous" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "New" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "applying direct" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "New York" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "direct New" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "applying" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "number access" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "access service" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "wistful" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "silence end" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "wistful little" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "end wistful" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "silence" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "wistful" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "little" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "including telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "including" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Szemzo came" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Szemzo" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "business" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "deem" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "doing business" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "deem offensive" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "business deem" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "doing" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "deem" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "offensive" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "swell" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ocean swell" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "swell went" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ocean" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "swell" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "poorest telephone-" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "growth since" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone- growth" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "since" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Fed" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "bank direct" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Fed says" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "direct Fed" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "bank" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Fed" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "hell" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "I" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Get hell" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "I start" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "hell I" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Get" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "hell" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "I" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "start" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "exchange" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "foreign exchange" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "foreign" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "exchange" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Would" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tapped" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "number Would" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tapped ?" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Would tapped" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Would" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ballistics" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "sir" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Here's ballistics" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ballistics sir" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Here's" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ballistics" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "sir" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "like" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "operator came" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "like said" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "came like" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "operator" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "like" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "can't" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "secure telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "can't bugged" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone can't" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "can't" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "bugged" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "according" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "100 telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "according Dataquest" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone according" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "100" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "according" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Dataquest" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Hospital" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "still" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "came Hospital" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "still ringing" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Hospital still" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Hospital" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ringing" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "during" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "during crash" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone during" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "during" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "crash" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "number The" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "busy hung" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "The busy" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "hung" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "million access" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "service end" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "! The" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "442000" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "China" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "orders 442000" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "China few" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "442000 China" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "orders" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "442000" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "China" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "few" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "says clogged" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "recently caused" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "clogged recently" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "caused" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone The" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "appealing" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "consumer information" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "appealing help" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "information appealing" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "consumer" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "appealing" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "help" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "sentence" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "middle sentence" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "sentence went" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "sentence" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "private-" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Centrex" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "won private-" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Centrex customers" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "private- Centrex" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "won" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "private-" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Centrex" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "any" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "use" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "While any" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "use neither" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "any use" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "While" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "any" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "neither" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "I've got" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Sellers came" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Sellers" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "3600" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "World" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "installing 3600" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "World Congress" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "3600 World" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "installing" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "3600" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "World" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Congress" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "extending" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "investment" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Friday extending" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "investment banks" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "extending investment" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Friday" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "extending" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "investment" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "banks" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Business" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "mark Business" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Business increased" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "mark" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Business" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "keeping him" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "asynchronous" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "synchronous asynchronous" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "synchronous" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "asynchronous" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "commotion end" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "commotion" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "another" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "patients another" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "patients" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "services telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "-- checking" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "services" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "checking" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "X-rated" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "expensive X-rated" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "expensive" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "X-rated" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Station The" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "still answered" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "The still" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Station" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "answered" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "one--one" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "choose one--one" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "like C-Line" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "one--one like" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "choose" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "one--one" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "C-Line" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "1800" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "central" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "serves 1800" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "central Illinois" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "1800 central" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "1800" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "central" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Illinois" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "company" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "customers direct" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "company Burger" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "direct company" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Burger" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "said end" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "third" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "third Bell" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "access third" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "third" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Bell" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "copying" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "three telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "copying machine" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone copying" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "copying" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "machine" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "emergency" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "played" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "911 emergency" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "played trial" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "emergency played" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "911" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "emergency" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "played" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "trial" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "nothing The" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "nothing" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "crackle" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "might" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "There crackle" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "might aged" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "crackle might" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "There" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "crackle" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "aged" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "subscriber-" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "charge" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "increase subscriber-" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "charge total" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "subscriber- charge" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "subscriber-" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "charge" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "total" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Sarah got" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "got once" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Sarah" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "sex" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gab" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "abuse sex" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gab lines" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "sex gab" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "abuse" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "sex" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "John" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "John Carl" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "end John" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "John" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Carl" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "voice" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "On end" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "voice promises" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "end voice" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "On" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "promises" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "chat" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "It's chat" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "-- A" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "chat --" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "It's" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "chat" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "A" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ordinary" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "pictures ordinary" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "The user" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ordinary The" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "pictures" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "ordinary" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "user" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "jumped" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "business telephone" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "jumped 68%" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "telephone jumped" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "jumped" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "68%" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "A" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "A year" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "access A" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "communications" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tie" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "renting communications" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tie nationwide" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "communications tie" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "renting" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tie" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "nationwide" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Wall" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "calling tip" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Wall Street" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "tip Wall" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "calling" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Wall" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "Street" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "transmitted" -1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "noise" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "isn't transmitted" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "noise such" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "transmitted noise" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "isn't" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "transmitted" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "noise" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "function" +1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gave party" -2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "function renamed" +2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "party function" -1/+1 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "gave" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "function" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "renamed" +/-2 of "line" -> Predicts:  phone  -> Rank: 0.0
+Feature: "establish" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "standard" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "wants establish" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "standard personal" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "establish standard" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "wants" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "establish" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "standard" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "personal" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "struggling" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "scrapped" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Inc struggling" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "struggling scrapped" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Inc" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "struggling" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "scrapped" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computer" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mainframe" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mid-range computer" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mainframe computer" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computer mainframe" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mid-range" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mainframe" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "previous" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "20% previous" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "20%" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "previous" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "three" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$50" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sales three" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$50 million" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "three $50" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sales" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$50" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "skin-care" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "small" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Prairie skin-care" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "small part" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "skin-care small" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Prairie" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "skin-care" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "small" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "part" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Atlas" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "properties" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "certain Atlas" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "properties should" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Atlas properties" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "certain" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Atlas" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "properties" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "should" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "furniture" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fetch" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "The furniture" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fetch $300" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "furniture fetch" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "furniture" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fetch" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$300" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "microprocessor" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "showing microprocessor" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "showing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "microprocessor" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "non-food" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shedding non-food" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shedding" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "non-food" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "rail-intermodal" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "consists" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "The rail-intermodal" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "consists piggyback" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "rail-intermodal consists" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "rail-intermodal" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "consists" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "piggyback" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "car" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "distinction car" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Mr Hoglund" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "car Mr" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "distinction" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "car" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Hoglund" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "complete" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mammography" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Thomson complete" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mammography equipment" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "complete mammography" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Thomson" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "complete" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mammography" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "equipment" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "luxury-car" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "may" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sales luxury-car" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "may big" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "luxury-car may" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "luxury-car" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Smith" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "1985" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Jaclyn Smith" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "1985 trying" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Smith 1985" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Jaclyn" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Smith" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "1985" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "trying" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "food" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "frozen food" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "frozen" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "food" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "expand" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "said" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "need expand" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "said Richard" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "expand said" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "need" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "expand" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Richard" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Corp's" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "aircraft" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Abex Corp's" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "aircraft landing" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Corp's aircraft" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Abex" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Corp's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "aircraft" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "landing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "similar" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "made similar" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "I produced" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "similar I" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "made" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "similar" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "produced" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "R1" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "made" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "R R1" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "made Uniroyal" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "R1 made" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "R" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "R1" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Uniroyal" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "launch" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "deluxe" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "arms launch" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "deluxe candy" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "launch deluxe" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "arms" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "launch" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "deluxe" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "candy" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "truck" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Dec" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "car truck" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Dec 31" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "truck Dec" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "truck" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Dec" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "31" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "IBM" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "He" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "compatible IBM" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "He said" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "IBM He" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "compatible" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "IBM" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "He" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "integrated" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "software" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "demand integrated" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "software products" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "integrated software" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "demand" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "integrated" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "software" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "products" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "along" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computers" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "2 along" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computers IBM" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "along computers" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "2" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "along" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computers" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "popular" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cherubic" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "illustrated popular" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cherubic children's" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "popular cherubic" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "illustrated" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "popular" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cherubic" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "children's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "diagnostics" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "showed" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "company's diagnostics" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "showed 8%" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "diagnostics showed" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "company's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "diagnostics" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "showed" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "8%" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "several" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "such" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "extensions several" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "such Hasbro's" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "several such" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "extensions" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "several" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Hasbro's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "company's" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "apparel company's" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "apparel" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Chevrolet" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "highest-volume car" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Chevrolet sales" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "car Chevrolet" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "highest-volume" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Chevrolet" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "create" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "oversize" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "firms create" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "oversize clothes" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "create oversize" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "firms" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "create" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "oversize" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "clothes" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "25%" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "popular car" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "25% less" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "car 25%" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "less" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Kraft" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "acquired food" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Kraft $235" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "food Kraft" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "acquired" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Kraft" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$235" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "building" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$45" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PC building" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$45 billion" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "building $45" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PC" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "building" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$45" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "billion" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "such" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "continue" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "While such" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "continue offered" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "such continue" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "continue" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "offered" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "older" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "profits older" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "profits" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "older" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Carleton" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "precision" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sell Carleton" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "precision pneumatic" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Carleton precision" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sell" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Carleton" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "precision" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "pneumatic" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Brands'" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "American Brands'" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "American" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Brands'" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fragrance" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Monteil" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Montana fragrance" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Monteil sources" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fragrance Monteil" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Montana" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fragrance" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Monteil" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sources" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PC" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "wouldn't" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "IBM PC" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "wouldn't still" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PC wouldn't" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "wouldn't" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "bringing" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "clothing" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "interested bringing" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "clothing under" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "bringing clothing" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "interested" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "bringing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "clothing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "under" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "aerospace" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "reorganization aerospace" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "reorganization" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "aerospace" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sellers" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "ranging" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "best sellers" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "ranging toys" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sellers ranging" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "best" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sellers" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "ranging" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "toys" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "GM-10" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "aimed" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "The GM-10" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "aimed regaining" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "GM-10 aimed" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "GM-10" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "aimed" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "regaining" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "apparel" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "merchandising apparel" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "merchandising" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "noting" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "hurt" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "added noting" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "hurt reduced" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "noting hurt" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "noting" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "hurt" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "reduced" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "billion" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mid-sized" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$5 billion" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mid-sized cars" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "billion mid-sized" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$5" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mid-sized" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cars" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "produces" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "rush produces" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "dozen automated" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "produces dozen" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "rush" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "produces" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "automated" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cereal" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lines" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Nabisco's cereal" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lines raise" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cereal lines" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Nabisco's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cereal" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "raise" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "announcement" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "personal" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "April announcement" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "personal computers" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "announcement personal" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "April" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "announcement" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PDP" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "built company's" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PDP scientific" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "company's PDP" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "built" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PDP" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "scientific" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Limited" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "It launch" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Limited lingerie" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "launch Limited" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "It" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Limited" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lingerie" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "tried" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "frozen-cheese" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "company tried" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "frozen-cheese dinners" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "tried frozen-cheese" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "tried" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "frozen-cheese" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "dinners" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "perfume" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Elizabeth" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "celebrate perfume" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Elizabeth Taylor's" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "perfume Elizabeth" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "celebrate" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "perfume" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Elizabeth" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Taylor's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Jeep" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "rose" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "minivan Jeep" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "rose 41%" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Jeep rose" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "minivan" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Jeep" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "rose" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "41%" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "1988-model" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fall" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduce 1988-model" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fall why" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "1988-model fall" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduce" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "1988-model" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fall" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "why" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "A" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shoes" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "BRIEFS: A" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shoes pregnant" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "A shoes" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "BRIEFS:" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shoes" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "pregnant" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "current car" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "torpedo" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "submarine-seeking torpedo" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "submarine-seeking" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "torpedo" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lastest" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "IBM's lastest" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computers haven't" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lastest computers" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "IBM's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lastest" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "haven't" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "marketing" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "involving" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "manufacturing marketing" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "involving substantial" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "marketing involving" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "manufacturing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "marketing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "involving" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "substantial" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "broader" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "better" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "don't broader" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "better financially" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "broader better" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "broader" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "better" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "financially" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "latest" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "source's latest" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "source's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "latest" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "diaper" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "second" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "adult diaper" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "second quarter" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "diaper second" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "adult" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "diaper" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "second" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "quarter" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "products" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mostly older" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "products sold" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "older products" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mostly" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "product" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "particularly" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "growth product" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "particularly international" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "product particularly" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "product" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "particularly" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "international" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "These" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Stern's" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Marsh-Florida These" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Stern's department" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "These Stern's" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Marsh-Florida" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "These" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Stern's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "department" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Prix" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "capable" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Grand Prix" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "capable producing" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Prix capable" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Grand" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Prix" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "capable" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "producing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PS/2" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Corp's PS/2" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PS/2 computers" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PS/2" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "samples" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "plush" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "bears samples" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "plush toys" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "samples plush" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "bears" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "samples" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "plush" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "full" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "under" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sell full" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "under brand" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "full under" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "full" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "brand" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "expected" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "IBM's PS/2" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "expected marketed" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PS/2 expected" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "expected" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "marketed" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Cougar" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Thunderbird Cougar" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Thunderbird" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Cougar" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "promoted" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "promoted heavily" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PS/2 promoted" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "promoted" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "heavily" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cracker" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "specialty" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cookie cracker" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "specialty products" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cracker specialty" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cookie" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cracker" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "specialty" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "dropping" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "considered dropping" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "considered" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "dropping" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "dreamboat" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Hollywood's dreamboat" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Hollywood's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "dreamboat" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Kids" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "draw" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Patch Kids" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "draw bidders" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Kids draw" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Patch" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Kids" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "draw" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "bidders" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "equipment" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "regarded" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "excavation equipment" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "regarded fit" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "equipment regarded" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "excavation" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "regarded" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fit" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "tire" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "American tire" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "tire" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduction" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "high-end" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "delay introduction" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "high-end disk" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduction high-end" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "delay" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduction" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "high-end" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "disk" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$169" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "frozen" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$129 $169" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "frozen breakfasts" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$169 frozen" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$129" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$169" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "breakfasts" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "declined" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "midrange product" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "declined elaborate" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "product declined" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "midrange" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "declined" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "elaborate" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "menswear" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "complete menswear" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "menswear" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "products" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sales" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "eye-care products" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sales $162" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "products sales" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "eye-care" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$162" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduced" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "minicomputers" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Corp introduced" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "minicomputers linking" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduced minicomputers" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Corp" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduced" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "minicomputers" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "linking" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "jewelry" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Crystal" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "number jewelry" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Crystal Brands" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "jewelry Crystal" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "jewelry" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Crystal" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Brands" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shoe" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "management" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "athletic shoe" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "management group" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shoe management" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "athletic" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shoe" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "management" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "group" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shipping IBM" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shipping" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "camera" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "market" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "600 camera" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "market seven" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "camera market" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "600" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "camera" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "market" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "seven" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "women's" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "where" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "scarce women's" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "where fashionability" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "women's where" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "scarce" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "women's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "where" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fashionability" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "built" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "32 computer" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "built around" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computer built" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "32" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "around" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "auto" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lacks full" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "auto products" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "full auto" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lacks" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "auto" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "produce" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "men's" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Club produce" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "men's fragrances" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "produce men's" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Club" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "produce" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "men's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fragrances" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Sun's" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "units" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "end Sun's" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "units remain" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Sun's units" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Sun's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "units" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "remain" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "output" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mid-size" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "begin output" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mid-size cars" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "output mid-size" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "begin" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "output" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mid-size" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "software" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "pacing" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Choice software" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "pacing advance" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "software pacing" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Choice" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "pacing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "advance" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Macintosh" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Inc's Macintosh" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "rose 130%" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Macintosh rose" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Inc's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Macintosh" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "130%" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Mirage car" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Mirage" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Amiga" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sales Amiga" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computers revenue" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Amiga computers" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Amiga" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "revenue" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Spectrum" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "The Spectrum" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "under development" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Spectrum under" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Spectrum" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "development" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "GM's" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "older" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "same GM's" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "older rear-wheel-drive" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "GM's older" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "same" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "GM's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "rear-wheel-drive" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "II computer" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "still mainstay" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computer still" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "II" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mainstay" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "moved" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "software computer" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "moved 2" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computer moved" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "moved" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduced similar" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "called Healthy" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "similar called" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Healthy" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "old" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "discontinuation old" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "old personal" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "discontinuation" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "old" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "prospects" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "growth prospects" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "said put" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "prospects said" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "prospects" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Ziari" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sunglasses" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Inc's Ziari" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Ziari sunglasses" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Ziari" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sunglasses" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "manufacture" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "trucks" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "jointly manufacture" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "trucks Britain" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "manufacture trucks" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "jointly" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "manufacture" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "trucks" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Captain" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "market A" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Captain Power" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "A Captain" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Captain" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Power" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "relations marketing" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "said operating" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "marketing said" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "relations" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "operating" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "specialized" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "beds" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sells specialized" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "beds daybeds" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "specialized beds" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sells" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "specialized" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "beds" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "daybeds" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "broaden" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "offering" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "plans broaden" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "offering lower-priced" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "broaden offering" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "plans" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "broaden" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "offering" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lower-priced" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Lexus" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "US" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "luxury Lexus" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "US November" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Lexus US" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "luxury" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Lexus" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "November" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "dealer" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "upscale car" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "dealer network" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "car dealer" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "upscale" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "dealer" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "network" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "endorse" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "women's" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Smith endorse" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "women's wear" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "endorse women's" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "endorse" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "wear" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "dealers" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "2" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "customers dealers" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "2 machines" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "dealers 2" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "dealers" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "machines" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "current" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "midpriced" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "motels current" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "midpriced high-priced" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "current midpriced" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "motels" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "midpriced" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "high-priced" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "drink" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "soft drink" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "soft" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "drink" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "graphics IBM" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "graphics" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "broadly" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "supplement" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "looking broadly" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "supplement Minute" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "broadly supplement" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "looking" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "broadly" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "supplement" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Minute" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "office-equipment" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cost-cutting office-equipment" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cost-cutting" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "office-equipment" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "2300 old" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "-- authorized" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "old --" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "2300" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "authorized" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Corsica" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Chevrolet Corsica" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Corsica" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "credit" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "The credit" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "used working" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "credit used" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "credit" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "working" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mainframes" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "software current" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mainframes run" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "current mainframes" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "mainframes" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "run" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "building-materials" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sell building-materials" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "company said" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "building-materials company" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "building-materials" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "specialty-food" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "smaller specialty-food" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "smaller" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "specialty-food" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "IBM PS/2" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PS/2 personal" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "read" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Fab" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Turner read" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Fab laundry" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "read Fab" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Turner" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "read" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Fab" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "laundry" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "selling skin-care" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "last month" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "skin-care last" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "selling" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "month" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Transformers" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: ";" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Joe Transformers" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "; Tonka" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Transformers ;" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Joe" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Transformers" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: ";" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Tonka" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "promotion" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "joint promotion" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Chevrolet pickup" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "promotion Chevrolet" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "joint" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "promotion" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "pickup" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Clarion" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "combined" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Girl Clarion" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "combined 254%" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Clarion combined" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Girl" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Clarion" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "combined" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "254%" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "machinery" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fell" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "agricultural machinery" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fell 2" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "machinery fell" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "agricultural" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "machinery" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "fell" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shipments" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "said shipments" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shipments" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "positions" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "negative positions" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "negative" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "positions" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "under" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "charged" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cards under" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "charged Hallmark" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "under charged" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "cards" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "charged" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Hallmark" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Denton" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sweaters" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Dr Denton" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sweaters infants" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Denton sweaters" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Dr" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Denton" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sweaters" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "infants" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "concerned" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Hasbro concerned" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "concerned market" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Hasbro" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "concerned" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "military" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computer" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lucrative military" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computer products" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "military computer" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lucrative" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "military" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "60%" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "survive" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "importing 60%" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "survive bracing" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "60% survive" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "importing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "60%" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "survive" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "bracing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "George" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Chicken George" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "getting under" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "George getting" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Chicken" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "George" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "markets" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Japanese-made" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Kodak markets" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Japanese-made alkaline" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "markets Japanese-made" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Kodak" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "markets" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Japanese-made" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "alkaline" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "versions" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "high-end versions" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "versions personal" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "versions" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "long-awaited" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "laptop" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "unveil long-awaited" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "laptop computers" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "long-awaited laptop" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "unveil" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "long-awaited" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "laptop" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "chemicals" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Imperial" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "basic chemicals" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Imperial Chemical" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "chemicals Imperial" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "basic" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "chemicals" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Imperial" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Chemical" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "nail-polish" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lipstick nail-polish" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "lipstick" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "nail-polish" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "testers microprocessor" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "testers" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "exclusive" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "stylish" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "selling exclusive" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "stylish kitchen" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "exclusive stylish" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "exclusive" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "stylish" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "kitchen" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "six car" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "making Big" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "car making" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "six" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Big" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "plastic" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Playmobile products" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "plastic pre-school" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "products plastic" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Playmobile" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "plastic" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "pre-school" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "main computer" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "main" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Lanterns" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "grotesque" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Oh Lanterns" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "grotesque polyurethane" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Lanterns grotesque" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Oh" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Lanterns" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "grotesque" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "polyurethane" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "acquired" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Cincinnati-based" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Soleil acquired" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Cincinnati-based Procter" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "acquired Cincinnati-based" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Soleil" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Cincinnati-based" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Procter" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "planned" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$29375 The" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "planned sale" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "The planned" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "$29375" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "planned" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sale" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PW4000" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "reached" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Pratt's PW4000" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "reached nearly" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PW4000 reached" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Pratt's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PW4000" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "reached" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "nearly" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduced PS/2" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "last April" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PS/2 last" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shedding" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "perhaps" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "gradually shedding" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "perhaps adding" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shedding perhaps" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "gradually" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "perhaps" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "adding" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "consumer-products" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "including" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "beef consumer-products" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "including aluminum" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "consumer-products including" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "beef" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "consumer-products" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "aluminum" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "won't" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "personal computer" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "won't help" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "computer won't" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "won't" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "coronary" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "recently introduced" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "coronary balloon" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduced coronary" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "coronary" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "balloon" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sewing" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "year sewing" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "still consider" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sewing still" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sewing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "consider" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "health-club" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Bally" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shedding health-club" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Bally focus" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "health-club Bally" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "health-club" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Bally" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "focus" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Coleco's" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "remainder Coleco's" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sales Cabbage" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Coleco's sales" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "remainder" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Coleco's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Cabbage" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "bit" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "substantially" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "drilling bit" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "substantially larger" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "bit substantially" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "drilling" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "bit" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "substantially" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "larger" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Zytel" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "nylon" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "capacity Zytel" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "nylon resins" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Zytel nylon" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "capacity" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Zytel" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "nylon" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "resins" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "advertised" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "nationally advertised" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "nationally" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "advertised" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "jeans" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "apparel business" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "jeans plans" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "business jeans" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "jeans" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "filter" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "three" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "initial filter" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "three commission" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "filter three" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "initial" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "filter" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "commission" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "home" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "home market" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduced home" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "home" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "spokesman" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "company's car" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "spokesman said" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "car spokesman" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "spokesman" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "VAX" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "enormously" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Although VAX" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "enormously popular" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "VAX enormously" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Although" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "VAX" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "enormously" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Green" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introductory costs" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Green Giant" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "costs Green" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introductory" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Green" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Giant" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Cray's" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Digital's VAX" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Cray's spokesman" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "VAX Cray's" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Digital's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Cray's" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "establish PS/2" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "PS/2 standard" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "priced" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "stock" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "reasonably priced" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "priced stock" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "reasonably" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "priced" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "included" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "said product" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "included DPX/2" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "product included" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "included" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "DPX/2" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "huge" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "General" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "already huge" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "General Foods" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "huge General" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "already" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "huge" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "General" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Foods" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Marx" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "15" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "& Marx" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Marx 15" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "&" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Marx" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Noxell" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "going stay" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Noxell historically" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "stay Noxell" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "going" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Noxell" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "historically" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "take" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "existing product" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "take far" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "product take" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "existing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "take" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "far" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "concentrate" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "consumer products" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "concentrate businesses" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "products concentrate" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "concentrate" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Halloween" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Inc introduced" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Halloween gifts" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduced Halloween" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Halloween" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "gifts" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "optometric" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "The optometric" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "expected garner" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "optometric expected" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "optometric" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "garner" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "ground-coffee" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "costly" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "built ground-coffee" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "costly acquisitions" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "ground-coffee costly" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "ground-coffee" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "costly" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "acquisitions" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Reebok;" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "System Reebok;" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "shoes Etonic" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Reebok; shoes" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "System" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Reebok;" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Etonic" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "One" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "jockey" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "hoofs One" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "jockey silks" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "One jockey" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "hoofs" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "One" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "jockey" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "silks" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "{product}" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "pressure {product}" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "{product} says" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "pressure" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "{product}" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Fox" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "entry-level Fox" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "entry-level" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Fox" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "frozen complete" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "introduced frozen" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "3X" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "275000" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sturdy 3X" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "275000 current" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "3X 275000" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "sturdy" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "3X" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "275000" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "testing" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "currently testing" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "frozen entrees" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "testing frozen" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "currently" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "testing" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "entrees" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "future" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Hormel" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "bet future" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Hormel carries" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "future Hormel" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "bet" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "future" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Hormel" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "carries" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "anymore" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "really car" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "anymore laments" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "car anymore" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "really" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "anymore" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "laments" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Lancome" -1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "likely" +1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Inc's Lancome" -2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "likely follow" +2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Lancome likely" -1/+1 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "Lancome" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "likely" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
+Feature: "follow" +/-2 of "line" -> Predicts:  product  -> Rank: 0.0
